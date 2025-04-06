@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlotaGo.Android", "FlotaGo.Android\FlotaGo.Android.csproj", "{FB2DE79F-6DC5-46BF-A3B1-287EB6242EBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlotaGo.iOS", "FlotaGo.iOS\FlotaGo.iOS.csproj", "{97237AB2-F70C-4ACD-9C7F-B0FDE4572F60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlotaGo", "FlotaGo\FlotaGo.csproj", "{6062B197-BA44-4733-915A-E61B4CE5CF22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB2DE79F-6DC5-46BF-A3B1-287EB6242EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2DE79F-6DC5-46BF-A3B1-287EB6242EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2DE79F-6DC5-46BF-A3B1-287EB6242EBD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FB2DE79F-6DC5-46BF-A3B1-287EB6242EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2DE79F-6DC5-46BF-A3B1-287EB6242EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2DE79F-6DC5-46BF-A3B1-287EB6242EBD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{97237AB2-F70C-4ACD-9C7F-B0FDE4572F60}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{97237AB2-F70C-4ACD-9C7F-B0FDE4572F60}.Debug|Any CPU.Build.0 = Debug|iPhone
+		{97237AB2-F70C-4ACD-9C7F-B0FDE4572F60}.Debug|Any CPU.Deploy.0 = Debug|iPhone
+		{97237AB2-F70C-4ACD-9C7F-B0FDE4572F60}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{97237AB2-F70C-4ACD-9C7F-B0FDE4572F60}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{97237AB2-F70C-4ACD-9C7F-B0FDE4572F60}.Release|Any CPU.Deploy.0 = Release|iPhoneSimulator
+		{6062B197-BA44-4733-915A-E61B4CE5CF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6062B197-BA44-4733-915A-E61B4CE5CF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6062B197-BA44-4733-915A-E61B4CE5CF22}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6062B197-BA44-4733-915A-E61B4CE5CF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6062B197-BA44-4733-915A-E61B4CE5CF22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6062B197-BA44-4733-915A-E61B4CE5CF22}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02ABD98D-8212-45DF-93B0-CF720EA03B3B}
+	EndGlobalSection
+EndGlobal
